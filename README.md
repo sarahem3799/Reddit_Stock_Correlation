@@ -1,1 +1,1 @@
-# Reddit_Stock_Correlation
+# RedStock: subReddits and Correlation of Stock Market 
